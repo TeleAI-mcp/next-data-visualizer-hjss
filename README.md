@@ -1,2 +1,3 @@
-# next-data-visualizer-hjss
+# Next Data Visualizer Hjss
+
 A repository to test GitHub automation for issue management.
